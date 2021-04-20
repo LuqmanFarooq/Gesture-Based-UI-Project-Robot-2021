@@ -1,7 +1,9 @@
 # Gesture-Based-UI-Project-Robot-2021
 
 ## OverView
-This Repository contains programmin script and documentation for a Gesture based robot which is a robot controlled by hand gestures. The user has a sensor on his hand to detect the motion cause by different hand gestures. Depending on the Gestures detected by the sensor the robot moves accordingly such as left , right , up and down.
+This Repository contains programming script, images, and documentation for a Gesture based robot which is a robot controlled by hand gestures. The user has a sensor on his hand to detect the motion cause by different hand gestures. Depending on the Gestures detected by the sensor the robot moves accordingly such as left , right , up and down.
+
+<img src="robotdesign/20210417_091147-removebg.png" alt="Design" width="400"/>
 
 ### How it works:
 
